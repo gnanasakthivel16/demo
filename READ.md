@@ -1,5 +1,9 @@
 #DEMO
 
- My first Commit
+My first Commit
 
-Add few more lines 
+
+Add few more lines
+
+Understand stash
+
